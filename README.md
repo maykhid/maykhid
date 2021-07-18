@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ExpressJS and NodeJS
 - 👯 I’m looking to collaborate on Flutter projects
 - 🤔 I’m looking for help with MEAN the stack for Backend development
-- 💬 Ask me about Flutter and Anime 🌝
+- 💬 Ask me about Flutter and Anime - 🌝
 - 📫 How to reach me: henryifebunandu@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Self taught programmer
