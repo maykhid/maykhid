@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![alt text](https://github.com/account.jpg)
-
 My name is Ifebunandu Henry, I'm a Mobile Application Developer
+
+
+![alt text](https://avatars.githubusercontent.com/u/54851623?v=4)
 
 <!--
 **maykhid/maykhid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
