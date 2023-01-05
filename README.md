@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Flutter apps
-- 🌱 I’m currently learning Django (Django rest framework)
+<!-- - 🌱 I’m currently learning Django (Django rest framework) -->
 - 👯 I’m looking to collaborate on Flutter projects
-- 🤔 I’m looking for help with DRF for Backend development
+<!-- - 🤔 I’m looking for help with DRF for Backend development -->
 - 💬 Ask me about Flutter and Anime - 🌝
 - 📫 How to reach me: henryifebunandu@gmail.com
 - 😄 Pronouns: He/Him/His
