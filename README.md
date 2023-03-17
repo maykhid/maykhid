@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: henryifebunandu@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Self taught programmer
+
+
+[![Henry's github stats](https://github-readme-stats.vercel.app/api?username=maykhid&show_icons=true)](https://github.com/maykhid/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykhid)](https://github.com/maykhid/github-readme-stats)
