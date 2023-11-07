@@ -1,6 +1,6 @@
 ## Greetings, fellow code wizards! I'm Henry, your friendly neighborhood Flutter Mage! 👋
 
-As a Mobile Application Developer, I harness the mystical powers of Flutter to conjure immersive and pixel-perfect applications that defy gravity and push the boundaries of what's possible in the digital realm.
+As a Mobile Engineer, I harness the mystical powers of Flutter to conjure immersive and pixel-perfect applications that defy gravity and push the boundaries of what's possible in the digital realm.
 
 Armed with my trusty keyboard and a seemingly infinite supply of caffeinated potions, I embark on epic quests through the land of Flutter, battling bugs, unraveling complex algorithms, and crafting enchanting user interfaces. From wielding the arcane arts of state management to summoning mesmerizing animations, I thrive on unraveling the secrets of the Flutterverse.
 
